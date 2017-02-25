@@ -1,0 +1,124 @@
+
+"----- Primitives" 
+10 
+10 
+10 
+(GHOST JACOB EMMA JOHN SANDRA) 
+(TROLL GRINCH) 
+(TROLL GHOST JACOB EMMA JOHN SANDRA) 
+(GRINCH) 
+FAST 
+(COMPUTERS ARE NICE) 
+(FAST COMPUTERS) 
+((ARE NICE)) 
+B 
+A 
+(B C) 
+(C) 
+C 
+(A B) 
+ABLIST 
+A 
+(B) 
+(A B) 
+(X Y) 
+23 
+(2 8 1993) 
+(23 2 8 1993) 
+(A B C D) 
+(JACOB CLARK) 
+"----- Procedures" 
+(BREAKFAST DINNER) 
+(BREAKFAST DINNER) 
+(EVE ADAM) 
+(ADAM EVE) 
+(B C A) 
+(C A B) 
+(C A B) 
+(B C A) 
+(1 2 3 3 2 1) 
+0 
+37.0 
+100 
+(INSIDE OUTSIDE) 
+(INSIDE INSIDE) 
+(INSIDE INSIDE) 
+"----- Predicates" 
+T 
+NIL 
+T 
+T 
+T 
+T 
+T 
+NIL 
+T 
+NIL 
+T 
+(MOTHER PLEASE) 
+NIL 
+debugger invoked on a SIMPLE-ERROR in thread
+#<THREAD "main thread" RUNNING {1001BBF023}>:
+  Dribbling to #P"/Users/jacobclark/Desktop/learning-lisp/output.text" is enabled.
+
+"----- Primitives" 
+10 
+10 
+10 
+(GHOST JACOB EMMA JOHN SANDRA) 
+(TROLL GRINCH) 
+(TROLL GHOST JACOB EMMA JOHN SANDRA) 
+(GRINCH) 
+FAST 
+(COMPUTERS ARE NICE) 
+(FAST COMPUTERS) 
+((ARE NICE)) 
+B 
+A 
+(B C) 
+(C) 
+C 
+(A B) 
+ABLIST 
+A 
+(B) 
+(A B) 
+(X Y) 
+23 
+(2 8 1993) 
+(23 2 8 1993) 
+(A B C D) 
+(JACOB CLARK) 
+"----- Procedures" 
+(BREAKFAST DINNER) 
+(BREAKFAST DINNER) 
+(EVE ADAM) 
+(ADAM EVE) 
+(B C A) 
+(C A B) 
+(C A B) 
+(B C A) 
+(1 2 3 3 2 1) 
+0 
+37.0 
+100 
+(INSIDE OUTSIDE) 
+(INSIDE INSIDE) 
+(INSIDE INSIDE) 
+"----- Predicates" 
+T 
+NIL 
+T 
+T 
+T 
+T 
+T 
+NIL 
+T 
+NIL 
+T 
+(MOTHER PLEASE) 
+NIL 
+debugger invoked on a SIMPLE-ERROR in thread
+#<THREAD "main thread" RUNNING {1001BBF023}>:
+  Dribbling to #P"/Users/jacobclark/Desktop/learning-lisp/output.text" is enabled.
